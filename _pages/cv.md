@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Electronics and Communication Engineering, Anna University University, 2011
+* B.E. in Electronics and Communication Engineering, Anna University, 2011
 * M.S. in Computer Networking, Wichita State University, 2015
 * Ph.D in Computing and Information Systems, University of North Carolina at Charlotte, 2020 (expected)
 
