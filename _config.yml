@@ -78,9 +78,9 @@ author:
   name             : "Prabhu Janakaraj"
   avatar           : "profile.png"
   bio              : "Researcher - SDN, IOT, 5G, NFV"
-  location         : ""
-  employer         :
-  email            :
+  location         : "Charlotte, North Carolina"
+  employer         : "University of North Carolina at Charlotte"
+  email            : "mail@techprabhu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -215,15 +215,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
