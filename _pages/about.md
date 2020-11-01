@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D candidate in Computer Science at College of Computing & Informatics, University of North Carolina - Charlotte, advised by Dr. Pu Wang
 
-Prabhu Janakaraj received B.E degree in Electronics and Communication Engineering from Anna University, M.S. degree in computer networking from Wichita State University. During his M.S program he published his research work on spectrum availability in IEEE publication. Currenty, he is pursuing Ph.D. degree in Computer Science with University of Nor
-th Carolina at Charlotte under the guidance of Dr. Pu Wang. His current research interests include Network Architecture Design, Software Defined Networking, Wireless Virtualization an
-d Systems Integration.
+I am a Ph.D candidate in Computer Science at College of Computing & Informatics, University of North Carolina - Charlotte, advised by Dr. Pu Wang.
+
+My research is focused on developing machine learning solutions for communication networks, particularly wireless multi-hop networks. I am also actively working on privacy enabled AI/ML solutions including federated learning, mmWave based user identification and system-in-loop emulator for large scale wireless multi-hop federated learning. In previous research projects, I worked on cognitive radio networks and developed applications for USRP-E310, USRP N210 and HackRF.
+
+Before starting my Ph.D, I obtained my Bachelors degree in Electronics and Communication Engineering from Anna University, Masters degree in Computer Networking from Wichita State University.
 
 
 
