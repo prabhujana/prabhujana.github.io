@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Webpage # the website title (if blank, full name will be used instead)
+title: Welcome # the website title (if blank, full name will be used instead)
 first_name: Prabhu
 middle_name: 
 last_name: Janakaraj
 email: pjanakar@uncc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,7 +49,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+Email: pjanakar@uncc.edu
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -79,10 +78,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-
+    
 news_limit: 5
 
 # -----------------------------------------------------------------------------
@@ -113,8 +109,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
-  # - bootstrap
-  # - material-sass
+  - bootstrap
+  - material-sass
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -122,7 +118,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Janakaraj
 
   style: apa
   locale: en

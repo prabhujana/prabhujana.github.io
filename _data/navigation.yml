@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
@@ -6,6 +6,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
    
+  - title: "CV"
+    url: /cv/
+
   - title: "CV"
     url: /cv/
 

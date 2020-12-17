@@ -1,19 +1,29 @@
 ---
 layout: about
-title: About
-permalink: /
+title: About Me
+permalink: /about
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p> </p>
+    <p> Office: </p>
     <p>203 Woodward Hall</p>
     <p>UNC Charlotte</p>
     <p>Charlotte, NC</p>
-
-news: true  # includes a list of news items
+  
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+   
+I am a Ph.D candidate in Computer Science at College of Computing & Informatics, University of North Carolina - Charlotte, advised by Dr. Pu Wang.
+
+My research is focused on developing machine learning solutions for communication networks, particularly wireless multi-hop networks. I am also actively working on privacy enabled AI/ML solutions including federated learning, mmWave based user identification and system-in-loop emulator for large scale wireless multi-hop federated learning. In previous research projects, I worked on cognitive radio networks and developed applications for USRP-E310, USRP N210 and HackRF.
+
+Before starting my Ph.D, I obtained my Bachelors degree in Electronics and Communication Engineering from Anna University, Masters degree in Computer Networking from Wichita State University.
+
 
