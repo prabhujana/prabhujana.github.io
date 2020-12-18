@@ -1,10 +1,6 @@
-source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem 'github-pages'
-    gem 'jekyll'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
-    gem 'jemoji'
-    gem 'unicode_utils'
-end
+source "https://rubygems.org"
+#gemspec
+gem 'jekyll'                    #Needed since this is a theme for Jekyll
+gem 'jekyll-feed'
+gem 'jekyll-scholar'
+gem 'jekyll-environment-variables'

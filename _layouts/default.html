@@ -1,28 +1,13 @@
 <!DOCTYPE html>
 <html>
-
-  <head>
-    {% include head.html %}
-  </head>
-
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-
-    <!-- Header -->
-
-    {% include header.html %}
-
-    <!-- Content -->
-
-    <div class="container mt-5">
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+    <div class="dumbarton-spacer-sm"></div>
+    <div class="container">
       {{ content }}
     </div>
-
-    <!-- Footer -->
-
+    <div class="dumbarton-spacer"></div>
     {% include footer.html %}
-
   </body>
-
-  {% include hemline.html %}
-
 </html>
