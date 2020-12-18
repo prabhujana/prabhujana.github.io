@@ -1,5 +1,0 @@
-- name: Publications
-  id: publications
-  description: My Publications
-  url: publications.html
-  first: true
